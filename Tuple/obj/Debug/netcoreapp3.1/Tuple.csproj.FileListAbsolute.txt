@@ -1,0 +1,14 @@
+C:\Users\stani\source\repos\Generics.Ex\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+C:\Users\stani\source\repos\Generics.Ex\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+C:\Users\stani\source\repos\Generics.Ex\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+C:\Users\stani\source\repos\Generics.Ex\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Generics.Ex\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\stani\source\repos\Generics.Ex\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\stani\source\repos\Generics.Ex\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\Generics.Ex\Tuple\obj\Debug\netcoreapp3.1\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\source\repos\Generics.Ex\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Generics.Ex\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+C:\Users\stani\source\repos\Generics.Ex\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Generics.Ex\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\stani\source\repos\Generics.Ex\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\stani\source\repos\Generics.Ex\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache
