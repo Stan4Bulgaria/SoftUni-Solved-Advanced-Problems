@@ -1,0 +1,14 @@
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.exe
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.deps.json
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.json
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Users\stani\source\repos\Generics.Ex\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.genruntimeconfig.cache
