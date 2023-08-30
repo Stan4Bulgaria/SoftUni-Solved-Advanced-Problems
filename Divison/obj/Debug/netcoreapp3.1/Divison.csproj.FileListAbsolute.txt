@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.exe
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.deps.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.dll
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\bin\Debug\netcoreapp3.1\Divison.pdb
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfo.cs
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.dll
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.pdb
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Divison\obj\Debug\netcoreapp3.1\Divison.genruntimeconfig.cache
