@@ -1,0 +1,12 @@
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\bin\Debug\netcoreapp3.1\Sum even numbers.exe
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\bin\Debug\netcoreapp3.1\Sum even numbers.deps.json
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\bin\Debug\netcoreapp3.1\Sum even numbers.runtimeconfig.json
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\bin\Debug\netcoreapp3.1\Sum even numbers.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\bin\Debug\netcoreapp3.1\Sum even numbers.dll
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\bin\Debug\netcoreapp3.1\Sum even numbers.pdb
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\obj\Debug\netcoreapp3.1\Sum even numbers.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\obj\Debug\netcoreapp3.1\Sum even numbers.AssemblyInfo.cs
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\obj\Debug\netcoreapp3.1\Sum even numbers.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\obj\Debug\netcoreapp3.1\Sum even numbers.dll
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\obj\Debug\netcoreapp3.1\Sum even numbers.pdb
+C:\Users\stani\source\repos\Arrays Ex\Sum even numbers\obj\Debug\netcoreapp3.1\Sum even numbers.genruntimeconfig.cache
