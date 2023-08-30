@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\bin\Debug\netcoreapp3.1\07.Truck tour.exe
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\bin\Debug\netcoreapp3.1\07.Truck tour.deps.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\bin\Debug\netcoreapp3.1\07.Truck tour.runtimeconfig.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\bin\Debug\netcoreapp3.1\07.Truck tour.runtimeconfig.dev.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\bin\Debug\netcoreapp3.1\07.Truck tour.dll
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\bin\Debug\netcoreapp3.1\07.Truck tour.pdb
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\obj\Debug\netcoreapp3.1\07.Truck tour.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\obj\Debug\netcoreapp3.1\07.Truck tour.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\obj\Debug\netcoreapp3.1\07.Truck tour.AssemblyInfo.cs
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\obj\Debug\netcoreapp3.1\07.Truck tour.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\obj\Debug\netcoreapp3.1\07.Truck tour.dll
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\obj\Debug\netcoreapp3.1\07.Truck tour.pdb
+C:\Users\stani\source\repos\01. Basic Stack Operations\07.Truck tour\obj\Debug\netcoreapp3.1\07.Truck tour.genruntimeconfig.cache
