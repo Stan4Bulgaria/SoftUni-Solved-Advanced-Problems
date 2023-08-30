@@ -1,0 +1,17 @@
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\ImplementingStackAndQueue.exe
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\ImplementingStackAndQueue.deps.json
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\ImplementingStackAndQueue.runtimeconfig.json
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\ImplementingStackAndQueue.runtimeconfig.dev.json
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\ImplementingStackAndQueue.dll
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\ImplementingStackAndQueue.pdb
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.AssemblyInfo.cs
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.csproj.CopyComplete
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.dll
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.pdb
+C:\Users\stani\source\repos\ImplementingStackAndQueue\ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\ImplementingStackAndQueue.genruntimeconfig.cache
