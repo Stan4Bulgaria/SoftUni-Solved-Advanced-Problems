@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.exe
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.deps.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.runtimeconfig.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.dll
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\bin\Debug\netcoreapp3.1\Strong Number.pdb
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.AssemblyInfo.cs
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.dll
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.pdb
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Strong Number\obj\Debug\netcoreapp3.1\Strong Number.genruntimeconfig.cache
