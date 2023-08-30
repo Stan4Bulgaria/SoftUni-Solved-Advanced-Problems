@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\bin\Debug\netcoreapp3.1\Custom Softuni String.exe
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\bin\Debug\netcoreapp3.1\Custom Softuni String.deps.json
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\bin\Debug\netcoreapp3.1\Custom Softuni String.runtimeconfig.json
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\bin\Debug\netcoreapp3.1\Custom Softuni String.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\bin\Debug\netcoreapp3.1\Custom Softuni String.dll
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\bin\Debug\netcoreapp3.1\Custom Softuni String.pdb
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\obj\Debug\netcoreapp3.1\Custom Softuni String.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\obj\Debug\netcoreapp3.1\Custom Softuni String.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\obj\Debug\netcoreapp3.1\Custom Softuni String.AssemblyInfo.cs
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\obj\Debug\netcoreapp3.1\Custom Softuni String.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\obj\Debug\netcoreapp3.1\Custom Softuni String.dll
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\obj\Debug\netcoreapp3.1\Custom Softuni String.pdb
+C:\Users\stani\source\repos\Custom Softuni String\Custom Softuni String\obj\Debug\netcoreapp3.1\Custom Softuni String.genruntimeconfig.cache
