@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\bin\Debug\netcoreapp3.1\Vending machine.exe
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\bin\Debug\netcoreapp3.1\Vending machine.deps.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\bin\Debug\netcoreapp3.1\Vending machine.runtimeconfig.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\bin\Debug\netcoreapp3.1\Vending machine.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\bin\Debug\netcoreapp3.1\Vending machine.dll
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\bin\Debug\netcoreapp3.1\Vending machine.pdb
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\obj\Debug\netcoreapp3.1\Vending machine.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\obj\Debug\netcoreapp3.1\Vending machine.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\obj\Debug\netcoreapp3.1\Vending machine.AssemblyInfo.cs
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\obj\Debug\netcoreapp3.1\Vending machine.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\obj\Debug\netcoreapp3.1\Vending machine.dll
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\obj\Debug\netcoreapp3.1\Vending machine.pdb
+C:\Users\stani\source\repos\Exercise Basic Syntax, Conditional Statements and Loops\Vending machine\obj\Debug\netcoreapp3.1\Vending machine.genruntimeconfig.cache
