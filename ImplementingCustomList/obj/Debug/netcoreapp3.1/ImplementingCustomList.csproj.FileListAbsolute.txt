@@ -1,0 +1,14 @@
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\bin\Debug\netcoreapp3.1\ImplementingCustomList.exe
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\bin\Debug\netcoreapp3.1\ImplementingCustomList.deps.json
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\bin\Debug\netcoreapp3.1\ImplementingCustomList.runtimeconfig.json
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\bin\Debug\netcoreapp3.1\ImplementingCustomList.runtimeconfig.dev.json
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\bin\Debug\netcoreapp3.1\ImplementingCustomList.dll
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\bin\Debug\netcoreapp3.1\ImplementingCustomList.pdb
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\obj\Debug\netcoreapp3.1\ImplementingCustomList.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\obj\Debug\netcoreapp3.1\ImplementingCustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\obj\Debug\netcoreapp3.1\ImplementingCustomList.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\obj\Debug\netcoreapp3.1\ImplementingCustomList.AssemblyInfo.cs
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\obj\Debug\netcoreapp3.1\ImplementingCustomList.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\obj\Debug\netcoreapp3.1\ImplementingCustomList.dll
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\obj\Debug\netcoreapp3.1\ImplementingCustomList.pdb
+C:\Users\stani\source\repos\ImplementingCustomList\ImplementingCustomList\obj\Debug\netcoreapp3.1\ImplementingCustomList.genruntimeconfig.cache
