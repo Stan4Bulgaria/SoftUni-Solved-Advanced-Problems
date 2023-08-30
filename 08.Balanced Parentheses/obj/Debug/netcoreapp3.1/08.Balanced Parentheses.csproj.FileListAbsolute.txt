@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\bin\Debug\netcoreapp3.1\08.Balanced Parentheses.exe
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\bin\Debug\netcoreapp3.1\08.Balanced Parentheses.deps.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\bin\Debug\netcoreapp3.1\08.Balanced Parentheses.runtimeconfig.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\bin\Debug\netcoreapp3.1\08.Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\bin\Debug\netcoreapp3.1\08.Balanced Parentheses.dll
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\bin\Debug\netcoreapp3.1\08.Balanced Parentheses.pdb
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\obj\Debug\netcoreapp3.1\08.Balanced Parentheses.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\obj\Debug\netcoreapp3.1\08.Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\obj\Debug\netcoreapp3.1\08.Balanced Parentheses.AssemblyInfo.cs
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\obj\Debug\netcoreapp3.1\08.Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\obj\Debug\netcoreapp3.1\08.Balanced Parentheses.dll
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\obj\Debug\netcoreapp3.1\08.Balanced Parentheses.pdb
+C:\Users\stani\source\repos\01. Basic Stack Operations\08.Balanced Parentheses\obj\Debug\netcoreapp3.1\08.Balanced Parentheses.genruntimeconfig.cache
