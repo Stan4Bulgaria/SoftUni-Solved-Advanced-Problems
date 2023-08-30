@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\bin\Debug\netcoreapp3.1\05. Softuni Parking.exe
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\bin\Debug\netcoreapp3.1\05. Softuni Parking.deps.json
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\bin\Debug\netcoreapp3.1\05. Softuni Parking.runtimeconfig.json
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\bin\Debug\netcoreapp3.1\05. Softuni Parking.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\bin\Debug\netcoreapp3.1\05. Softuni Parking.dll
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\bin\Debug\netcoreapp3.1\05. Softuni Parking.pdb
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\obj\Debug\netcoreapp3.1\05. Softuni Parking.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\obj\Debug\netcoreapp3.1\05. Softuni Parking.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\obj\Debug\netcoreapp3.1\05. Softuni Parking.AssemblyInfo.cs
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\obj\Debug\netcoreapp3.1\05. Softuni Parking.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\obj\Debug\netcoreapp3.1\05. Softuni Parking.dll
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\obj\Debug\netcoreapp3.1\05. Softuni Parking.pdb
+C:\Users\stani\source\repos\Exercise Associative Arrays\05. Softuni Parking\obj\Debug\netcoreapp3.1\05. Softuni Parking.genruntimeconfig.cache
