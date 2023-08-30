@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\bin\Debug\netcoreapp3.1\04.Fast food.exe
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\bin\Debug\netcoreapp3.1\04.Fast food.deps.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\bin\Debug\netcoreapp3.1\04.Fast food.runtimeconfig.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\bin\Debug\netcoreapp3.1\04.Fast food.runtimeconfig.dev.json
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\bin\Debug\netcoreapp3.1\04.Fast food.dll
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\bin\Debug\netcoreapp3.1\04.Fast food.pdb
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\obj\Debug\netcoreapp3.1\04.Fast food.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\obj\Debug\netcoreapp3.1\04.Fast food.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\obj\Debug\netcoreapp3.1\04.Fast food.AssemblyInfo.cs
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\obj\Debug\netcoreapp3.1\04.Fast food.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\obj\Debug\netcoreapp3.1\04.Fast food.dll
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\obj\Debug\netcoreapp3.1\04.Fast food.pdb
+C:\Users\stani\source\repos\01. Basic Stack Operations\04.Fast food\obj\Debug\netcoreapp3.1\04.Fast food.genruntimeconfig.cache
