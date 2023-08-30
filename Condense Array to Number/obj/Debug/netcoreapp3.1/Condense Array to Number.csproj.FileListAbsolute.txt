@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.exe
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.deps.json
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.runtimeconfig.json
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.dll
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.pdb
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.AssemblyInfo.cs
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.dll
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.pdb
+C:\Users\stani\source\repos\Arrays Ex\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.genruntimeconfig.cache
