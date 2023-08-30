@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\bin\Debug\netcoreapp3.1\Person Project.exe
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\bin\Debug\netcoreapp3.1\Person Project.deps.json
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\bin\Debug\netcoreapp3.1\Person Project.runtimeconfig.json
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\bin\Debug\netcoreapp3.1\Person Project.runtimeconfig.dev.json
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\bin\Debug\netcoreapp3.1\Person Project.dll
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\bin\Debug\netcoreapp3.1\Person Project.pdb
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\obj\Debug\netcoreapp3.1\Person Project.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\obj\Debug\netcoreapp3.1\Person Project.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\obj\Debug\netcoreapp3.1\Person Project.AssemblyInfo.cs
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\obj\Debug\netcoreapp3.1\Person Project.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\obj\Debug\netcoreapp3.1\Person Project.dll
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\obj\Debug\netcoreapp3.1\Person Project.pdb
+C:\Users\stani\source\repos\01. Define a Class Person\Defining Classes.Ex\obj\Debug\netcoreapp3.1\Person Project.genruntimeconfig.cache
