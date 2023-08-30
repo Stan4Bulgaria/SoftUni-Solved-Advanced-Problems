@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\bin\Debug\netcoreapp3.1\2D.List.exe
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\bin\Debug\netcoreapp3.1\2D.List.deps.json
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\bin\Debug\netcoreapp3.1\2D.List.runtimeconfig.json
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\bin\Debug\netcoreapp3.1\2D.List.runtimeconfig.dev.json
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\bin\Debug\netcoreapp3.1\2D.List.dll
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\bin\Debug\netcoreapp3.1\2D.List.pdb
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\obj\Debug\netcoreapp3.1\2D.List.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\obj\Debug\netcoreapp3.1\2D.List.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\obj\Debug\netcoreapp3.1\2D.List.AssemblyInfo.cs
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\obj\Debug\netcoreapp3.1\2D.List.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\obj\Debug\netcoreapp3.1\2D.List.dll
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\obj\Debug\netcoreapp3.1\2D.List.pdb
+C:\Users\stani\source\repos\Multidimensional Arrays\2D.List\obj\Debug\netcoreapp3.1\2D.List.genruntimeconfig.cache
