@@ -1,0 +1,14 @@
+C:\Users\stani\source\repos\ListyIterator\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+C:\Users\stani\source\repos\ListyIterator\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+C:\Users\stani\source\repos\ListyIterator\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+C:\Users\stani\source\repos\ListyIterator\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+C:\Users\stani\source\repos\ListyIterator\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\stani\source\repos\ListyIterator\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\stani\source\repos\ListyIterator\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\ListyIterator\Froggy\obj\Debug\netcoreapp3.1\Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\source\repos\ListyIterator\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\ListyIterator\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+C:\Users\stani\source\repos\ListyIterator\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\ListyIterator\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\stani\source\repos\ListyIterator\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\stani\source\repos\ListyIterator\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache
